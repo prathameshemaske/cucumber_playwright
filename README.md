@@ -1,2 +1,2 @@
-# cucumber_playwright
-Bdd using playwright cucumber
+# cucumber
+palywright with cucumber for bdd
